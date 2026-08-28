@@ -2,7 +2,7 @@
 
 An end-to-end business intelligence project that evaluates retail vendor, brand, sales, purchasing, and inventory performance. The project combines **SQL**, **Python**, and **Power BI** to turn transaction-level data into actionable recommendations for procurement, pricing, promotions, and stock management.
 
-## Table of Contents
+## 📌 Table of Contents
 
 - [Business Objective](#business-objective)
 - [Dashboard Preview](#dashboard-preview)
@@ -153,4 +153,10 @@ Retail Business Performance Analysis/
 
 ---
 
-If you found this project useful, please consider starring the repository.
+## Author & Contact
+**Sreekar Tirunagari**  
+Business Analyst  
+📧 Email: Sreekartiru@gmail.com
+🔗 [LinkedIn]()  
+🔗 [Portfolio]()
+
