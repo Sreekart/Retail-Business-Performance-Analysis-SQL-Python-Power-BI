@@ -157,6 +157,6 @@ Retail Business Performance Analysis/
 **Sreekar Tirunagari**  
 Business Analyst  
 📧 Email: Sreekartiru@gmail.com
-🔗 [LinkedIn]()  
-🔗 [Portfolio]()
+🔗 [LinkedIn](https://www.linkedin.com/posts/sreekar-tirunagari-7a3375202_retail-business-performance-analysis-power-activity-7504514080066682881-PSdB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOq4SsBegstrxLBlfKWhKtBmYvE7K2gWVE)  
+
 
